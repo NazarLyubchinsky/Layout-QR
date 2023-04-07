@@ -255,6 +255,7 @@ header {
 .watch:hover {
 	background: var(--light-primary-background-color);
 	color: var(--blue-primary-text-color);
+	cursor: pointer;
 }
 
 .signup {
@@ -262,6 +263,7 @@ header {
 	color: var(--blue-primary-text-color);
 	margin-bottom: 10px;
 	transition: background 0.7s ease;
+	cursor: pointer;
 }
 
 .signup:hover {
